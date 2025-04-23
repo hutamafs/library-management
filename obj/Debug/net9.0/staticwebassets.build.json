@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qVePk2nM+u1XyrcEeff80dw2AwcA8sqwtt+uOPTRpXU=",
+  "Source": "library-management",
+  "BasePath": "_content/library-management",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
